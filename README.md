@@ -4,7 +4,7 @@ A very basic proof of concept smart cap to provide spoken obstacle detection for
 
 ## Overview
 
-This project is one of the first Arduino projects I built completely from scratch when I was 13 years old.
+This project is one of the first Arduino projects I built completely from scratch when I was 13 years old. I recently came across it while going through old projects so I decided to clean up the code, add better comments and then finally upload it here.
 
 It was designed as a proof of concept to explore how inexpensive electronics could be used to assist visually impaired individuals with navigation.
 
