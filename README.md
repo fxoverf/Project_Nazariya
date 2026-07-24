@@ -53,6 +53,8 @@ Three ultrasonic sensors continuously monitor the front, left, and right sides o
 | TX | RX |
 | RX | TX |
 
+I used 1k pulldown resistors on UART beacuse the DFPlayer module was misbehaving without them due to the Arduino Pro Mini's 5V TTL logic (DFPlayer module uses 3.3V TTL logic).
+
 ### Speaker
 
 Connect the speaker directly to the **SPK1** and **SPK2** terminals on the DFPlayer Mini.
