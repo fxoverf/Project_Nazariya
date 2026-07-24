@@ -88,4 +88,4 @@ This project was developed using **DFMiniMp3 v1.0.1 by makuna**. Newer versions 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is released under the MIT License.
